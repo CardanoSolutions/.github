@@ -2,13 +2,19 @@
 
 Cardano Solutions is home for a few key projects of the Cardano ecosystem.
 
-### Ogmios :: Your Gateway To Cardano
+<table style="border: none">
+<tr>
+<td width="150"><picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CardanoSolutions/ogmios/master/server/static/assets/ogmios__light.png"><img alt="Ogmios: gateway to Cardano" src="https://raw.githubusercontent.com/CardanoSolutions/ogmios/master/server/static/assets/ogmios__dark.png" width="150"></picture></td>
+<td><h3>Ogmios :: Your Gateway To Cardano</h3><hr/><a href="https://github.com/cardanosolutions/ogmios">Ogmios</a> is a lightweight bridge interface for cardano-node. It offers a WebSocket API that enables local clients to interact with the node using JSON/RPC. It covers chain-sync, transaction submission, mempool monitoring and a handful of specific state queries.</td>
+</tr>
+</table>
 
-[Ogmios](https://github.com/cardanosolutions/ogmios) is a lightweight bridge interface for cardano-node. It offers a WebSocket API that enables local clients to interact with the node using JSON/RPC. It covers chain-sync, transaction submission, mempool monitoring and a handful of specific state queries.
-
-### Kupo :: Chain-Indexing Done Right
-
-[Kupo](https://github.com/cardanosolutions/kupo) is fast, lightweight and configurable chain-index for the Cardano blockchain. On the one hand, the indexer synchronizes data from the blockchain, filtered by specific patterns on addresses, assets or output references; and the on other hand, it offers a high-level HTTP API for effeciently retrieving indexed results in a friendly manner.
+<table style="border: none">
+<tr>
+<td width="150"><img  width="150" alt="Kupo :: Chain-Indexing Done Right" src="https://raw.githubusercontent.com/CardanoSolutions/kupo/master/docs/kupo.png"></td>
+<td><h3>Kupo :: Chain-Indexing Done Right</h3><hr/><a href="https://github.com/cardanosolutions/kupo">Kupo</a> is fast, lightweight and configurable chain-index for the Cardano blockchain. On the one hand, the indexer synchronizes data from the blockchain, filtered by specific patterns on addresses, assets or output references; and the on other hand, it offers a high-level HTTP API for effeciently retrieving indexed results in a friendly manner.</td>
+</tr>
+</table>
 
 ## <img src="https://raw.githubusercontent.com/CardanoSolutions/ogmios/master/.github/discord.svg" height="24" /> Community
 
@@ -50,3 +56,5 @@ Follow us Twitter for updates and chats about the future of Cardano!
   <a href="https://github.com/kayandra"><img src="https://avatars.githubusercontent.com/u/5002506?s=50&v=4" width=50 height=50 /></a>
   <a href="https://github.com/tapiocapool"><img src="https://avatars.githubusercontent.com/u/80033713?s=50&v=4" width=50 height=50 /></a>
 </p>
+
+<p align="center"><i>A special thank to <a href="https://github.com/SmaugPool"><img src="https://github.com/SmaugPool.png" height=20 /> SmaugPool </a> for CardanoSolutions' logo.</i></p>
