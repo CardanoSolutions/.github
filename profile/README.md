@@ -34,7 +34,7 @@ Follow us Twitter for updates and chats about the future of Cardano!
   <a href="https://sundaeswap.finance/"><img src="https://avatars.githubusercontent.com/u/83610786?s=70&v=4" width=70 height=70 /></a>
   <a href="https://blockfrost.io/"><img src="https://avatars.githubusercontent.com/u/70073210?s=70&v=4" width=70 height=70 /></a>
   <a href="https://jpeg.store/"><img src="https://avatars.githubusercontent.com/u/98781883?s=70&v=4" width=70 height=70 /></a>
-  <a href="https://github.com/DripDropz"><img src="https://avatars.githubusercontent.com/u/83610786?s=70&v=4" width=70 height=70 /></a>
+  <a href="https://github.com/DripDropz"><img src="https://avatars.githubusercontent.com/u/97243109?s=70&v=4" width=70 height=70 /></a>
   <a href="https://github.com/projectNEWM"><img src="https://avatars.githubusercontent.com/u/83253396?s=60&v=4" width=70 height=70 /></a>
   <a href="https://github.com/minswap"><img src="https://avatars.githubusercontent.com/u/80548193?s=70&v=4" width=70 height=70 /></a>
   <a href="https://github.com/aada-finance"><img src="https://avatars.githubusercontent.com/u/89693711?s=60&v=4" width=70 height=70 /></a>
