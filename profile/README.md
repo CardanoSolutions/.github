@@ -31,9 +31,9 @@ Follow us Twitter for updates and chats about the future of Cardano!
 ### Current
 
 <p align="center">
+  <a href="https://github.com/butaneprotocol"><img src="https://avatars.githubusercontent.com/u/142697482?s=70&v=4" width=70 height=70 /></a> 
   <a href="https://sundaeswap.finance/"><img src="https://avatars.githubusercontent.com/u/83610786?s=70&v=4" width=70 height=70 /></a>
   <a href="https://blockfrost.io/"><img src="https://avatars.githubusercontent.com/u/70073210?s=70&v=4" width=70 height=70 /></a>
-  <a href="https://jpeg.store/"><img src="https://avatars.githubusercontent.com/u/98781883?s=70&v=4" width=70 height=70 /></a>
   <a href="https://github.com/DripDropz"><img src="https://avatars.githubusercontent.com/u/97243109?s=70&v=4" width=70 height=70 /></a>
   <a href="https://github.com/projectNEWM"><img src="https://avatars.githubusercontent.com/u/83253396?s=60&v=4" width=70 height=70 /></a>
   <a href="https://github.com/minswap"><img src="https://avatars.githubusercontent.com/u/80548193?s=70&v=4" width=70 height=70 /></a>
@@ -46,6 +46,7 @@ Follow us Twitter for updates and chats about the future of Cardano!
   <a href="https://github.com/Quantumplation"><img src="https://avatars.githubusercontent.com/u/49870?v=4" width=70 height=70 /></a>
   <a href="https://github.com/codybutz"><img src="https://avatars.githubusercontent.com/u/3670430?s=70&v=4" width=70 height=70 /></a>
   <a href="https://github.com/scarmuega"><img src="https://avatars.githubusercontent.com/u/653886?s=70&v=4" width=70 height=70 /></a>
+  <a href="https://github.com/perturbing"><img src="https://avatars.githubusercontent.com/u/107037423?s=70&v=4" width=70 height=70 /></a>
   <a href="https://github.com/prometheus-pool"><img src="https://avatars.githubusercontent.com/u/9547191?s=70&v=4" width=70 height=70 /></a>
   <br/>
     <small><i>+1 private sponsor</i></small>
@@ -56,6 +57,7 @@ Follow us Twitter for updates and chats about the future of Cardano!
 <p align="center">
     <a href="https://raynetwork.io/"><img src="https://avatars.githubusercontent.com/u/153427773?s=200&v=4" width=40 height=40 /></a>
     <a href="https://eternl.io/"><img src="https://eternl.io/icons/favicon-128x128.png" width=40 height=40 /></a>
+    <a href="https://jpeg.store/"><img src="https://avatars.githubusercontent.com/u/98781883?s=40&v=4" width=40 height=40 /></a>
     <a href="https://github.com/Supersoloo"><img src="https://avatars.githubusercontent.com/u/121493964?s=40&v=4" width=40 height=40 /></a>
     <a href="https://github.com/kreate-art"><img src="https://avatars.githubusercontent.com/u/118675270?s=40&v=4" width=40 height=40 /></a>
     <a href="https://github.com/tokenstakepool"><img src="https://avatars.githubusercontent.com/u/101922076?s=40&v=4" width=40 height=40 /></a>
