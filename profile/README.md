@@ -5,14 +5,30 @@ Cardano Solutions is home for a few key projects of the Cardano ecosystem.
 <table style="border: none">
 <tr>
 <td width="150"><picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CardanoSolutions/ogmios/master/branding/ogmios__light.png"><img alt="Ogmios: gateway to Cardano" src="https://raw.githubusercontent.com/CardanoSolutions/ogmios/master/branding/ogmios__dark.png" width="150"></picture></td>
-<td><h3>Ogmios :: Your Gateway To Cardano</h3><hr/><a href="https://github.com/cardanosolutions/ogmios">Ogmios</a> is a lightweight bridge interface for cardano-node. It offers a WebSocket API that enables local clients to interact with the node using JSON/RPC. It covers chain-sync, transaction submission, mempool monitoring and a handful of specific state queries.</td>
+<td><h3>Ogmios :: Your Gateway To Cardano</h3><hr/><a href="https://github.com/cardanosolutions/ogmios">Ogmios</a> is a lightweight bridge interface for cardano-node. It offers a WebSocket API that enables local clients to interact with the node using JSON/RPC. It covers chain-sync, transaction submission, mempool monitoring and a handful of specific state queries.
+
+<h4>Quick install</h4>
+
+```console
+brew tap CardanoSolutions/formulas
+brew install ogmios
+```
+</td>
 </tr>
 </table>
 
 <table style="border: none">
 <tr>
 <td width="150"><img  width="150" alt="Kupo :: Chain-Indexing Done Right" src="https://raw.githubusercontent.com/CardanoSolutions/kupo/master/docs/kupo.png"></td>
-<td><h3>Kupo :: Chain-Indexing Done Right</h3><hr/><a href="https://github.com/cardanosolutions/kupo">Kupo</a> is fast, lightweight and configurable chain-index for the Cardano blockchain. On the one hand, the indexer synchronizes data from the blockchain, filtered by specific patterns on addresses, assets or output references; and the on other hand, it offers a high-level HTTP API for effeciently retrieving indexed results in a friendly manner.</td>
+<td><h3>Kupo :: Chain-Indexing Done Right</h3><hr/><a href="https://github.com/cardanosolutions/kupo">Kupo</a> is fast, lightweight and configurable chain-index for the Cardano blockchain. On the one hand, the indexer synchronizes data from the blockchain, filtered by specific patterns on addresses, assets or output references; and the on other hand, it offers a high-level HTTP API for effeciently retrieving indexed results in a friendly manner.
+
+<h4>Quick install</h4>
+
+```console
+brew tap CardanoSolutions/formulas
+brew install kupo
+```
+</td>
 </tr>
 </table>
 
