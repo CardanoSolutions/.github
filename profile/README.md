@@ -53,11 +53,10 @@ Follow us Twitter for updates and chats about the future of Cardano!
   <a href="https://github.com/DripDropz"><img src="https://avatars.githubusercontent.com/u/97243109?s=70&v=4" width=70 height=70 /></a>
   <a href="https://github.com/projectNEWM"><img src="https://avatars.githubusercontent.com/u/83253396?s=60&v=4" width=70 height=70 /></a>
   <a href="https://github.com/minswap"><img src="https://avatars.githubusercontent.com/u/80548193?s=70&v=4" width=70 height=70 /></a>
-  <a href="https://github.com/aada-finance"><img src="https://avatars.githubusercontent.com/u/89693711?s=60&v=4" width=70 height=70 /></a>
   <a href="https://github.com/AndrewWestberg"><img src="https://avatars.githubusercontent.com/u/245918?s=60&v=4" width=70 height=70 /></a>
   <a href="https://github.com/McManford"><img src="https://avatars.githubusercontent.com/u/7148419?s=60&v=4" width=70 height=70 /></a>
   <a href="https://github.com/mpizenberg"><img src="https://avatars.githubusercontent.com/u/2905865?s=60&v=4" width=70 height=70 /></a>
-  <a href="https://github.com/cffls"><img src="https://avatars.githubusercontent.com/u/48079971?s=70&v=4" width=70 height=70 /></a>
+  <a href="https://github.com/sourabhxyz"><img src="https://avatars.githubusercontent.com/u/29835247?s=60&v=4" width=70 height=70 /></a>
   <a href="https://github.com/OneDeuxTriSeiGo"><img src="https://avatars.githubusercontent.com/u/9424043?s=70&v=4" width=70 height=70 /></a>
   <a href="https://github.com/Quantumplation"><img src="https://avatars.githubusercontent.com/u/49870?v=4" width=70 height=70 /></a>
   <a href="https://github.com/codybutz"><img src="https://avatars.githubusercontent.com/u/3670430?s=70&v=4" width=70 height=70 /></a>
@@ -74,7 +73,9 @@ Follow us Twitter for updates and chats about the future of Cardano!
     <a href="https://raynetwork.io/"><img src="https://avatars.githubusercontent.com/u/153427773?s=200&v=4" width=40 height=40 /></a>
     <a href="https://eternl.io/"><img src="https://eternl.io/icons/favicon-128x128.png" width=40 height=40 /></a>
     <a href="https://jpeg.store/"><img src="https://avatars.githubusercontent.com/u/98781883?s=40&v=4" width=40 height=40 /></a>
-    <a href="https://github.com/4TT1L4"><img src="https://avatars.githubusercontent.com/u/2914096?s=40&v=4" width=40 height=40 /></a>
+    <a href="https://github.com/aada-finance"><img src="https://avatars.githubusercontent.com/u/89693711?s=40&v=4" width=40 height=40 /></a>
+    <a href="https://github.com/cffls"><img src="https://avatars.githubusercontent.com/u/48079971?s=40&v=4" width=40 height=40 /></a>
+    <a href="https://github.com/rkzl1"><img src="https://avatars.githubusercontent.com/u/33369699?s=40&v=4" width=40 height=40 /></a>
     <a href="https://github.com/D-Biela"><img src="https://avatars.githubusercontent.com/u/23465326?s=40&v=4" width=40 height=40 /></a>
     <a href="https://github.com/Supersoloo"><img src="https://avatars.githubusercontent.com/u/121493964?s=40&v=4" width=40 height=40 /></a>
     <a href="https://github.com/kreate-art"><img src="https://avatars.githubusercontent.com/u/118675270?s=40&v=4" width=40 height=40 /></a>
@@ -90,6 +91,7 @@ Follow us Twitter for updates and chats about the future of Cardano!
     <a href="https://github.com/savaki"><img src="https://avatars.githubusercontent.com/u/108710?s=40&v=4" width=40 height=40 /></a>
     <a href="https://github.com/tapiocapool"><img src="https://avatars.githubusercontent.com/u/80033713?s=40&v=4" width=40 height=40 /></a>
     <a href="https://github.com/kayandra"><img src="https://avatars.githubusercontent.com/u/5002506?s=40&v=4" width=40 height=40 /></a>
+    <a href="https://github.com/Yomjii"><img src="https://avatars.githubusercontent.com/u/3296518?s=40&v=4" width=40 height=40 /></a>
     <br/>
     <small><i>+6 private sponsors</i></small>
 </p>
